@@ -129,7 +129,3 @@ DATABASE_URL=postgresql://user:password@localhost/tododb
 ```
 
 Install PostgreSQL driver: `pip install psycopg2-binary`
-
-## License
-
-MIT License
